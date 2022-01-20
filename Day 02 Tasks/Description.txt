@@ -1,0 +1,9 @@
+1. Try all what we have learned in the lecture
+ 
+2. Design and implement a structure for the employees in a company
+3. Employee is identified by an ID, salary, hire date and Gender.
+4. Develop a Structure to represent the HiringDate Datatype consisting of fields to hold the day, month and Years.
+5. Create an array of Employees with size three (Employee [] EmpArr;)
+6. Implement All the Necessary Member Functions on the Structure (Getters, Setters)
+7. Define all the Necessary Constructors for the Structure
+8. Read ALL Data from End User
