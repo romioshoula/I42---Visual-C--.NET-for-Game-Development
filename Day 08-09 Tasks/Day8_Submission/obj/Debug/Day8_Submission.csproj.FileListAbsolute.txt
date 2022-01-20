@@ -1,0 +1,7 @@
+C:\Users\Sarah\source\C# repos\Day 8 or 9\Day8_Submission\obj\Debug\Day8_Submission.csproj.AssemblyReference.cache
+C:\Users\Sarah\source\C# repos\Day 8 or 9\Day8_Submission\obj\Debug\Day8_Submission.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\source\C# repos\Day 8 or 9\Day8_Submission\bin\Debug\Day8_Submission.exe.config
+C:\Users\Sarah\source\C# repos\Day 8 or 9\Day8_Submission\bin\Debug\Day8_Submission.exe
+C:\Users\Sarah\source\C# repos\Day 8 or 9\Day8_Submission\bin\Debug\Day8_Submission.pdb
+C:\Users\Sarah\source\C# repos\Day 8 or 9\Day8_Submission\obj\Debug\Day8_Submission.exe
+C:\Users\Sarah\source\C# repos\Day 8 or 9\Day8_Submission\obj\Debug\Day8_Submission.pdb
