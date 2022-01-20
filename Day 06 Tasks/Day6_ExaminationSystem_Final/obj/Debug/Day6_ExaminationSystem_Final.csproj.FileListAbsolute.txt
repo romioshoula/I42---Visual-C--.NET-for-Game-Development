@@ -1,0 +1,7 @@
+C:\Users\Sarah\source\C# repos\Day 5\Day5\Day6_ExaminationSystem_Final\bin\Debug\Day6_ExaminationSystem_Final.exe.config
+C:\Users\Sarah\source\C# repos\Day 5\Day5\Day6_ExaminationSystem_Final\bin\Debug\Day6_ExaminationSystem_Final.exe
+C:\Users\Sarah\source\C# repos\Day 5\Day5\Day6_ExaminationSystem_Final\bin\Debug\Day6_ExaminationSystem_Final.pdb
+C:\Users\Sarah\source\C# repos\Day 5\Day5\Day6_ExaminationSystem_Final\obj\Debug\Day6_ExaminationSystem_Final.csproj.AssemblyReference.cache
+C:\Users\Sarah\source\C# repos\Day 5\Day5\Day6_ExaminationSystem_Final\obj\Debug\Day6_ExaminationSystem_Final.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\source\C# repos\Day 5\Day5\Day6_ExaminationSystem_Final\obj\Debug\Day6_ExaminationSystem_Final.exe
+C:\Users\Sarah\source\C# repos\Day 5\Day5\Day6_ExaminationSystem_Final\obj\Debug\Day6_ExaminationSystem_Final.pdb

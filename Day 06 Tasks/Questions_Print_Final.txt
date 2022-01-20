@@ -1,0 +1,60 @@
+Choose 1: One of these statements below is true and the other two are false. Which one is true ? 	Marks: 5
+Choose One:
+0.Every variable in C++ has to be associated with a specific type.
+1.A Boolean variable can only be assigned a value from this set of three reserved words: { true, false, undefined}.
+2.Every function in C++ must return a value.
+
+Choose 1: According to the C++ standard, what is the name of the function that is the starting point for a program? 	Marks: 5
+Choose One:
+0.start()
+1.init()
+2.begin()
+3.main()
+
+Select all of the following that are true?	Marks: 3
+Choose all the correct answers:
+0.C++ allows a member variable to be declared in a user-defined class with an unknown type that can by defined when an object of that class is created.
+1.C++ allows a variable to be declared in a user-defined function with an unknown type that can be defined when the function is called.
+2.C++ allows a local variable to be declared in main() with an unknown type that can be defined when the program is executed.
+3.C++ allows a variable to be declared in a user-defined member function of a user-defined class that can be defined when the function is called.
+
+Select all of the following that will not generate an error at compile time?	Marks: 3
+Choose all the correct answers:
+0.std::vector v;
+1.std::vector<double> v;
+2.std::vector<char[256]> v;
+3.std::vector<std::vector<int>> v;
+
+True/False: C++ allows a member variable to be declared in a user-defined class with an unknown type that can by defined when an object of that class is created?	Marks: 7
+Choose True or False:
+0.true
+1.false
+
+True/False: C++ allows a variable to be declared in a user-defined function with an unknown type that can be defined when the function is called?	Marks: 7
+Choose True or False:
+0.true
+1.false
+
+True/False: C++ allows a local variable to be declared in main() with an unknown type that can be defined when the program is executed?	Marks: 7
+Choose True or False:
+0.true
+1.false
+
+True/False: C++ allows a variable to be declared in a user-defined member function of a user-defined class that can be defined when the function is called?	Marks: 7
+Choose True or False:
+0.true
+1.false
+
+Choose 1: Which one of the following properly declares the class RubikCube derived from the base class Cube?	Marks: 5
+Choose One:
+0.class Cube : public RubikCube {...};
+1.class RubikCube : public Cube {...};
+2.class RubikCube(Cube) {...};
+3.class Cube(RubikCube) {...};
+
+Choose 1: C++ is ...?	Marks: 5
+Choose One:
+0.... a great language for programming data structures.
+1.... the greatest language for programming data structures ever!
+2.... meh.
+
